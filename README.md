@@ -15,7 +15,7 @@ cd BD-XTD_LOL
 ls
 
 
-python Asiflol.py
+python Lolasif.py
 
 
 
